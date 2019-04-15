@@ -1,7 +1,6 @@
 #https://www.geeksforgeeks.org/ford-fulkerson-algorithm-for-maximum-flow-problem/
 # Author - Neelam Yadav
-#Bilal  Naazir(2016127)
-#w1676291
+#Bilal  Naazir(
 import random
 from collections import defaultdict
 import numpy as np
